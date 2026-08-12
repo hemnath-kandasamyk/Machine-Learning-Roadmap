@@ -7,12 +7,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="70"/>
+  <img 
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHBe-T0FwZYQ8r3naAgNmdADp-G4LxNPu7WQnNQ6HXg&s=10" 
+  alt="Seaborn" 
+  width="70">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="70"/>
   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="70"/>
-  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="Google Colab" width="70"/>
+   <img 
+    src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png" 
+    alt="Google Colab" 
+    width="70"
+  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="70"/>
 </p>
